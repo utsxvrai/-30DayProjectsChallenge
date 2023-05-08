@@ -8,4 +8,4 @@ The first project is a digital clock that displays the time in hours, minutes, s
 
 ## Project 2: New Year Countdown [8 May]
 
-It is new Year Countdown whuch displays how many days, hours, minutes, secounds are remaining for the given year.
+It is new Year Countdown which displays how many days, hours, minutes, secounds are remaining for the given year.
