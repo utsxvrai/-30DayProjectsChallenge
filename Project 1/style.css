@@ -8,7 +8,7 @@ body{
     justify-content: center;
     background: url("https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGVjaG5vbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60") ;
     background-size: cover;
-
+    overflow: hidden;
 }
 
 h2{
@@ -17,7 +17,7 @@ h2{
     letter-spacing: 4px;
     font-size: 14px;
     text-align: center;
-    display: flex;
+    /* background-color: blanchedalmond; */
 
 }
 
@@ -28,6 +28,7 @@ h2{
 
 .clock div{
     margin: 5px;
+    position: relative;
 
 }
 
@@ -52,4 +53,14 @@ h2{
     text-transform: uppercase;
     letter-spacing : 2px ;
     background: rgb(61, 20, 4);
+}
+
+.clock #ampm{
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    background:rgb(13, 18, 10) ;
 }
