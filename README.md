@@ -12,4 +12,4 @@ It is new Year Countdown which displays how many days, hours, minutes, secounds 
 
 ## Project 3: Analog Clock [9 May]
 
-It is a analog clock with hour, minutes and seconf hands.
+It is an analog clock with hour, minutes and seconf hands.
