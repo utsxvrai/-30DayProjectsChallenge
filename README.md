@@ -36,3 +36,9 @@ It is a gallary in which pictures would me stocked in the cylindrical rotating m
 It is very important transition effect in which when you will scroll down the page it will get disapper with the scrolling.
 ![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/c22f10b0-1bfa-4622-bf46-f4c61df522d7)
 
+## Project 7: Real Time Character Counter [18 May]
+
+It aims to create a real-time character counter using JavaScript. It features a text area container that displays both the total character count and remaining character count of 280(like Twitter). As users type, the total character count dynamically increases, and the remaining character count decreases. The text area locks once the limit of 50 characters is reached, and the remaining character count becomes zero. With this functionality, users can keep track of their remaining characters and be alerted when they hit the character limit
+![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/615f6cd9-6242-4df4-9314-bef9dddc363e)
+
+
