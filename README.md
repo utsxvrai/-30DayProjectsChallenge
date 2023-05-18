@@ -17,3 +17,11 @@ It is an analog clock with hour, minutes and seconf hands.
 ## Project 4: Month Calendar [10 May]
 
 It is a Month Calendar  and it will show the current date, name of the month and the date in form of a string.
+
+## Project 5: Roatating Image Gallary  [13 May]
+
+It is a gallary in which pictures would me stocked in the cylindrical roating manner!
+
+## Project 4: Background Image Scroller [18 May]
+
+It is very important transition effect in which when you will scroll down the page it will get disapper with the scrolling.
