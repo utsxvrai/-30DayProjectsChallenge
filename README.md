@@ -1,6 +1,6 @@
 # 30 Days Project Challenge
 
-This repository contains 50 small projects to enhance my skills in JavaScript, HTML and CSS. As a beginner, this challenge will help me learn a lot.
+This repository contains 50 small projects to enhance some basic skills in JavaScript, HTML and CSS. As a beginner, this challenge will help you to learn a lot.
 
 ## Project 1: Digital Clock [8 May]
 
