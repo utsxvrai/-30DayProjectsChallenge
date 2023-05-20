@@ -94,8 +94,9 @@ main{
     justify-content: center;
     align-items: center;
     font-size: 20px;
+    transition: 0.4s;
 }
 
 .active.alert-container{
-    animation: alert 1s ease-in-out;
+    right: -300px;
 }
