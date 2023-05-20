@@ -41,12 +41,15 @@ It is very important transition effect in which when you will scroll down the pa
 It aims to create a real-time character counter using JavaScript. It features a text area container that displays both the total character count and remaining character count of 280(like Twitter). As users type, the total character count dynamically increases, and the remaining character count decreases. The text area locks once the limit of 50 characters is reached, and the remaining character count becomes zero. With this functionality, users can keep track of their remaining characters and be alerted when they hit the character limit
 ![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/615f6cd9-6242-4df4-9314-bef9dddc363e)
 
-## Project 8: Mini Calendar [18 May]
+## Project 8: Mini Calendar [19 May]
 
 It involves creating a mini calendar that displays the current date of the computer on which it is viewed. This information is dynamically retrieved using JavaScript, ensuring that the page always displays the current date. For example, if viewed in December 2021, the page will display December 2nd, which is a Thursday. By creating this mini calendar, you will learn how to retrieve and display current date information using JavaScript.
 ![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/98b037fc-80c1-427c-899a-4a7516b4e7d3)
 
+## Project 8: Random Password Generator [20 May]
 
+It's random password generator that generates a password using different characters. The final project will consist of a container titled "Random Password Generator" with an input field containing an icon for copying the password and a button to generate it. When we click the button, a password is generated randomly. We can copy it by clicking the icon. A notification will appear confirming that the password has been copied, and we can paste it anywhere we want. This project will teach us how to create random passwords and copy text using a button in the project. We'll also learn how to add a notification to the project. It's an intermediate to advanced project for learning new skills.
+![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/aad98aa8-dcd0-4fc2-937a-177137955187)
 
 
 
