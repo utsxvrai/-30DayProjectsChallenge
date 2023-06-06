@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 30 Days Project Challenge
 
 This repository contains 50 small projects to enhance some basic skills in JavaScript, HTML and CSS. As a beginner, this challenge will help you to learn a lot.
@@ -100,11 +100,13 @@ It aims to create a real-time character counter using JavaScript. It features a 
 It involves creating a mini calendar that displays the current date of the computer on which it is viewed. This information is dynamically retrieved using JavaScript, ensuring that the page always displays the current date. For example, if viewed in December 2021, the page will display December 2nd, which is a Thursday. By creating this mini calendar, you will learn how to retrieve and display current date information using JavaScript.
 ![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/98b037fc-80c1-427c-899a-4a7516b4e7d3)
 
-## Project 8: Random Password Generator [20 May]
+## Project 9: Random Password Generator [20 May]
 
 It's random password generator that generates a password using different characters. The final project will consist of a container titled "Random Password Generator" with an input field containing an icon for copying the password and a button to generate it. When we click the button, a password is generated randomly. We can copy it by clicking the icon. A notification will appear confirming that the password has been copied, and we can paste it anywhere we want. This project will teach us how to create random passwords and copy text using a button in the project. We'll also learn how to add a notification to the project. It's an intermediate to advanced project for learning new skills.
 ![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/aad98aa8-dcd0-4fc2-937a-177137955187)
 
+## Project 10: Button Ripple Effect [5 June]
 
+This project entails creating a visually stunning button ripple effect that animates when hovering over a button. The final result showcases a button on the screen that produces a ripple effect starting from the point where the mouse enters. Regardless of the entry direction, the effect adapts accordingly, creating a seamless and captivating user experience. Achieving this effect involves utilizing JavaScript to capture the mouse position and CSS to create a visually appealing ripple animation. Executing this project requires a robust grasp of JavaScript and CSS and the ability to apply these skills creatively to produce the desired effect. With our expertise, we can create a beautiful and interactive ripple effect that is sure to impress and engage users.
+![image](https://github.com/utsxvrai/30DayProjectsChallenge/assets/116128086/8da989ad-fec3-4029-ad8a-b9256f8e53c0)
 
->>>>>>> 86a06a0cac57d5287ae664ce37eb0dd045403faf
